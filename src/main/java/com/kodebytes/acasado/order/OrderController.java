@@ -1,8 +1,5 @@
-package com.kodebytes.acasado.controller;
+package com.kodebytes.acasado.order;
 
-import com.kodebytes.acasado.dto.CreateOrderRequest;
-import com.kodebytes.acasado.dto.CreateOrderResponse;
-import com.kodebytes.acasado.service.OrderService;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

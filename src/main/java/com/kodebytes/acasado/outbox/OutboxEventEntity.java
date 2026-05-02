@@ -1,4 +1,4 @@
-package com.kodebytes.acasado.entity;
+package com.kodebytes.acasado.outbox;
 
 import jakarta.persistence.*;
 

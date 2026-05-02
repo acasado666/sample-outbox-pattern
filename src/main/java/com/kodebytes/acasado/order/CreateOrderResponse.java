@@ -1,4 +1,4 @@
-package com.kodebytes.acasado.dto;
+package com.kodebytes.acasado.order;
 
 import java.util.UUID;
 

@@ -1,4 +1,4 @@
-package com.kodebytes.acasado.entity;
+package com.kodebytes.acasado.order;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

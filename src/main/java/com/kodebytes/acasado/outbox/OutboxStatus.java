@@ -1,4 +1,4 @@
-package com.kodebytes.acasado.entity;
+package com.kodebytes.acasado.outbox;
 
 public enum OutboxStatus {
     PENDING,

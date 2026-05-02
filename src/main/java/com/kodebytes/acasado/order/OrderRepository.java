@@ -1,6 +1,5 @@
-package com.kodebytes.acasado.repository;
+package com.kodebytes.acasado.order;
 
-import com.kodebytes.acasado.entity.OrderEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;

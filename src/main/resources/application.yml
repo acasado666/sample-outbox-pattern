@@ -39,8 +39,8 @@ spring:
         key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
         value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
 
-  app:
-    outbox:
-      topic: orders.events
-      relay-fixed-delay-ms: 2000
-      batch-size: 25
+app:
+  outbox:
+    topic: orders.events
+    relay-fixed-delay-ms: 2000
+    batch-size: 25
